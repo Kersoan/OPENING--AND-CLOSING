@@ -1,4 +1,4 @@
-# EX-11--Opening-and-Closing
+# EX-10-Opening-and-Closing
 
 ## Aim;
 To implement Opening and Closing using Python and OpenCV.
